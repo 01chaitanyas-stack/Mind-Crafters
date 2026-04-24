@@ -1,0 +1,5 @@
+[
+  { "id": "b1", "name": "CBS", "lat": 19.997, "lng": 73.789, "routes": ["R1", "R2", "R5"] },
+  { "id": "b2", "name": "Nashik Road Station", "lat": 19.952, "lng": 73.840, "routes": ["R1", "R3"] },
+  { "id": "b3", "name": "Trimbak Naka", "lat": 19.996, "lng": 73.774, "routes": ["R2", "R4"] }
+]

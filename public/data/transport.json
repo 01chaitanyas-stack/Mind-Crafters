@@ -1,0 +1,5 @@
+[
+  { "id": "t1", "mode": "Auto Rickshaw", "speedKmh": 25, "costPerKm": 20, "baseFare": 30 },
+  { "id": "t2", "mode": "City Bus", "speedKmh": 15, "costPerKm": 5, "baseFare": 10 },
+  { "id": "t3", "mode": "Cab", "speedKmh": 45, "costPerKm": 40, "baseFare": 50 }
+]

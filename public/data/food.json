@@ -1,0 +1,14 @@
+{
+  "p1": [
+    { "name": "Sula Beyond Cafe", "type": "Continental", "cost": 800 },
+    { "name": "Little Italy", "type": "Italian", "cost": 1000 }
+  ],
+  "central": [
+    { "name": "Sadhana Misal", "type": "Local", "cost": 150 },
+    { "name": "Shoukin Bhel", "type": "Snacks", "cost": 50 }
+  ],
+  "west": [
+    { "name": "River Dine", "type": "Multi-cuisine", "cost": 400 },
+    { "name": "Vihar Hotel", "type": "South Indian", "cost": 200 }
+  ]
+}

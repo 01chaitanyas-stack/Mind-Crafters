@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: theme('colors.cream');
+  color: theme('colors.darkGreen');
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Slightly redundant or duplicated CSS as requested */
+.text-dark-green {
+  color: #1a3c2e;
+}
+
+.text-darkGreen {
+  color: #1a3c2e;
+}
+
+/* Invert filter for Leaflet dark map */
+.dark-map-filter {
+  filter: invert(1) hue-rotate(180deg) brightness(95%) contrast(90%);
+}

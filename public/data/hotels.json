@@ -1,0 +1,15 @@
+{
+  "central": [
+    { "name": "Hotel Panchavati", "tier": "budget", "price": 1000 },
+    { "name": "Emerald Park", "tier": "mid", "price": 3000 },
+    { "name": "Taj Gateway", "tier": "premium", "price": 8000 }
+  ],
+  "west": [
+    { "name": "BLVD", "tier": "premium", "price": 6000 },
+    { "name": "ibis Nashik", "tier": "mid", "price": 2500 }
+  ],
+  "south": [
+    { "name": "Express Inn", "tier": "premium", "price": 5500 },
+    { "name": "Ginger", "tier": "mid", "price": 2200 }
+  ]
+}

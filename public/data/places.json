@@ -1,0 +1,14 @@
+[
+  { "id": "p1", "name": "Sula Vineyards", "category": "wine", "lat": 20.005, "lng": 73.743, "priority": 10, "entryCost": 1000, "duration": 3, "zone": "west" },
+  { "id": "p2", "name": "Trimbakeshwar Temple", "category": "temple", "lat": 19.932, "lng": 73.530, "priority": 9, "entryCost": 0, "duration": 2, "zone": "outside" },
+  { "id": "p3", "name": "Pandavleni Caves", "category": "history", "lat": 19.957, "lng": 73.744, "priority": 8, "entryCost": 50, "duration": 2, "zone": "south" },
+  { "id": "p4", "name": "Saptashrungi", "category": "temple", "lat": 20.380, "lng": 73.910, "priority": 7, "entryCost": 0, "duration": 4, "zone": "north" },
+  { "id": "p5", "name": "Someshwar Waterfall", "category": "nature", "lat": 20.021, "lng": 73.742, "priority": 6, "entryCost": 20, "duration": 1, "zone": "west" },
+  { "id": "p6", "name": "Panchavati", "category": "culture", "lat": 20.008, "lng": 73.792, "priority": 8, "entryCost": 0, "duration": 2, "zone": "central" },
+  { "id": "p7", "name": "Kalaram Temple", "category": "temple", "lat": 20.007, "lng": 73.793, "priority": 7, "entryCost": 0, "duration": 1, "zone": "central" },
+  { "id": "p8", "name": "Sita Gufaa", "category": "history", "lat": 20.009, "lng": 73.794, "priority": 6, "entryCost": 10, "duration": 1, "zone": "central" },
+  { "id": "p9", "name": "York Winery", "category": "wine", "lat": 20.008, "lng": 73.738, "priority": 6, "entryCost": 500, "duration": 2, "zone": "west" },
+  { "id": "p10", "name": "Coin Museum", "category": "museum", "lat": 19.965, "lng": 73.666, "priority": 5, "entryCost": 30, "duration": 1, "zone": "west" },
+  { "id": "p11", "name": "Anjaneri Hills", "category": "nature", "lat": 19.935, "lng": 73.582, "priority": 8, "entryCost": 0, "duration": 4, "zone": "west" },
+  { "id": "p12", "name": "Muktidham", "category": "temple", "lat": 19.980, "lng": 73.831, "priority": 6, "entryCost": 0, "duration": 1, "zone": "east" }
+]
